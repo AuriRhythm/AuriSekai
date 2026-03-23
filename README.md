@@ -25,7 +25,7 @@ Currently, the project only has a working custom way to get device video output 
 1. **Python 3.11** Only.
 2. Install the required Python dependencies:
    ```bash
-   pip install pyimgui[glfw] pyopengl glfw av numpy pyaudio pywin32
+   pip install -r requirements.txt
    ```
 3. **External Dependencies:** This project requires `adb` and `scrcpy-server.jar` (Version 3.3.4) to function. The script will automatically download required files.
 ## 🎮 Usage

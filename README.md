@@ -56,7 +56,10 @@ This project is released into the public domain under the **UNLICENSE**.
 [Senyx](https://github.com/senyx) - At first, I thought I can only inject touches to scrcpy-server but even video too! how cool is that? (Discovered when implementing autosekai)
 
 ```
-This project exist because I want to learn ImGUI. yeah. thats why the menu and scrcpy come first then the bot later.
+This project exist because I want to learn ImGUI. yeah.
+thats why the menu and scrcpy come first then the bot later.
 
-Anyway- Alot of this readme part is created by AI (Gemini) for the meme ofcourse. My code? Deep Research by Gemini pro too. Why? Because i don't know openGL. (I know abit of vulkan but theres no opencv for it. fuck)
+Anyway- Alot of this readme part is created by AI (Gemini) for the meme ofcourse.
+My code? Deep Research by Gemini pro too. Why? Because i don't know openGL.
+(I know abit of vulkan but theres no opencv for it. fuck)
 ```

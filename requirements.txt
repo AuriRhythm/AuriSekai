@@ -1,8 +1,0 @@
-imgui[glfw]
-glfw
-PyOpenGL
-numpy
-pywin32
-dxcam
-av
-pyaudio

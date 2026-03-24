@@ -183,7 +183,7 @@ def _audio_worker(sock: socket.socket):
                     format="s16",
                     layout="stereo" if channels >= 2 else "mono",
                     rate=rate,
-                )
+                )   
                 continue
 
             if ctx is None or st._pa_stream is None:
@@ -272,7 +272,6 @@ def _connect_sockets(timeout: float = 15.0):
     if audio_sock is None:
         video_sock.close()
         return None, None
-
     return video_sock, audio_sock
 
 def _launch_worker(device: str, res: str, max_fps: int = 60, encoder: str = "Auto"):
